@@ -1,0 +1,28 @@
+{
+  "name": "initiation-es6-tp",
+  "version": "1.0.0",
+  "description": "TDD exercise to practice es6 functionalities",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hubergerard/initiation-es6-tp.git"
+  },
+  "keywords": [
+    "node",
+    "es6",
+    "tdd"
+  ],
+  "author": "hubergerard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hubergerard/initiation-es6-tp/issues"
+  },
+  "homepage": "https://github.com/hubergerard/initiation-es6-tp#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "^3.6.4"
+  }
+}

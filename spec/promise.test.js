@@ -1,12 +1,11 @@
 // Juste un exemple
-
 const promise = new Promise((resolve, reject) => {
     setTimeout(() => resolve('Hello'), 1000);
 }) 
 
-describe("greet()", () => {
+describe("#promise", () => {
 
-    it("should greet Henry", () => {
+    it("should say hello", () => {
         promise.then((message) => {
             expect(message).toEqual('Hello');
         });

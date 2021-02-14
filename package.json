@@ -4,7 +4,7 @@
   "description": "TDD exercise to practice es6 functionalities",
   "main": "index.js",
   "scripts": {
-    "test": "jasmine"
+    "test": "jasmine --reporter=jasmine-console-reporter"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,7 @@
   "homepage": "https://github.com/hubergerard/initiation-es6-tp#readme",
   "dependencies": {},
   "devDependencies": {
-    "jasmine": "^3.6.4"
+    "jasmine": "^3.6.4",
+    "jasmine-console-reporter": "^3.1.0"
   }
 }

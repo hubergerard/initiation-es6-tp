@@ -6,7 +6,7 @@
 Array.prototype.myFilter = function(predicate) {
 }
 
-describe("myFilter()", () => {
+describe("#myFilter()", () => {
 
     const positivePredicate = number => number > 0;
     const negativePredicate = number => number < 0;

@@ -10,7 +10,7 @@ const contexte = {
     // TODO : Ajouter dans ce contexte les bons attributs pour rendre les tests passants
 };
 
-describe("getX()", () => {
+describe("#getX()", () => {
 
     it("should return x", () => {
         const boundGetX = getX.bind(contexte);
@@ -20,7 +20,7 @@ describe("getX()", () => {
 
 });
 
-describe("getSurface()", () => {
+describe("#getSurface()", () => {
 
     it("should return surface", () => {
         const boundGetSurface = getSurface.bind(contexte);

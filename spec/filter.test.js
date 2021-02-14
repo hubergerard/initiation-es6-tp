@@ -1,4 +1,3 @@
-
 /**
  * TODO : Coder l'intérieur de myFilter pour rendre les tests passants
  * myFilter() est ajoutée aux méthodes de la classe Array. Elle est donc utilisable depuis n'importe quelle instance de tableau JS.

@@ -6,7 +6,7 @@ const contexte = {
     customerNumber: 44152
 };
 
-describe("greet()", () => {
+describe("#greet()", () => {
 
     it("should greet Henry", () => {
         // TODO : Remplace le null par un appel à la fonction greet, en utilisant la méthode call() pour lui passer le contexte

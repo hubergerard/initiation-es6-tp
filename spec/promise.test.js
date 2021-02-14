@@ -4,7 +4,7 @@ const promise = new Promise((resolve, reject) => {
     setTimeout(() => resolve('Hello'), 1000);
 }) 
 
-describe("greet()", () => {
+describe("#greet()", () => {
 
     it("should greet Henry", () => {
         promise.then((message) => {

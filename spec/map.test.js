@@ -11,7 +11,7 @@ Array.prototype.myMap = function(mapper) {
     return result;
 }
 
-describe("myMap()", () => {
+describe("#myMap()", () => {
 
     const uppercaseMapper = word => word.toUpperCase();
     const lowercaseMapper = word => word.toLowerCase();

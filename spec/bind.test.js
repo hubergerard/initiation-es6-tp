@@ -12,7 +12,7 @@ const contexte = {
     y: 1024
 };
 
-describe("getX()", () => {
+describe("#getX()", () => {
 
     it("should return x", () => {
         const boundGetX = getX.bind(contexte);
@@ -22,7 +22,7 @@ describe("getX()", () => {
 
 });
 
-describe("getSurface()", () => {
+describe("#getSurface()", () => {
 
     it("should return surface", () => {
         const boundGetSurface = getSurface.bind(contexte);

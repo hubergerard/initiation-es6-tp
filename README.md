@@ -6,7 +6,9 @@ Les principes du TDD sont appliqués, donc les tests sont rédigés. Le but est 
 
 ## Installation
 
-Pour installer ces exercices sur votre machine, clonez le repository. Puis lancez la commande suivante à la racine du repository :
+Pour installer ces exercices sur votre machine, clonez le repository. 
+
+Puis lancez la commande suivante à la racine du repository :
 ```
 npm install
 ```

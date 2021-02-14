@@ -6,7 +6,8 @@
 Compléter les fichiers apply.test.js, bind.test.js et call.test.js
 
 ### Exercice 2 : Callbacks
-Compléter les fichier map.test.js puis filter.test.js
+Compléter les fichier map.test.js puis filter.test.js.
+
 Le but est de recoder les méthodes filter() et map() de la class Array, car elles recoivent une callback simple en paramètre.
 
 ### Exercice 3 : POO

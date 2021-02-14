@@ -4,11 +4,11 @@ Ce repository est un exercice d'initiation à JS et aux syntaxes ES6. Le but est
 
 ## Installation
 
-Pour installer ces exercices sur votre machine, clonez le repository. Puis lancez la commande :
+Pour installer ces exercices sur votre machine, clonez le repository. Puis lancez la commande suivante à la racine du repository :
 ```
 npm install
 ```
-Vous pouvez ensuite exécuter les tests en exécutant la commande : 
+Vous pouvez ensuite exécuter les tests en lançant la commande : 
 ```
 npm test
 ```

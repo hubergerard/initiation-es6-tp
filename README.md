@@ -1,6 +1,8 @@
 # initiation-es6-tp
 
-Ce repository est un exercice d'initiation à JS et aux syntaxes ES6. Le but est de rendre les tests passants.
+Ce repository est un exercice d'initiation à JS et aux syntaxes ES6.
+
+Les principes du TDD sont appliqués, donc les tests sont rédigés. Le but est simplement de rendre les tests passants.
 
 ## Installation
 

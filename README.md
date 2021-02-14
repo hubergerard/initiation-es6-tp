@@ -1,5 +1,18 @@
 # initiation-es6-tp
 
+Ce repository est un exercice d'initiation à JS et aux syntaxes ES6. Le but est de rendre les tests passants.
+
+## Installation
+
+Pour installer ces exercices sur votre machine, clonez le repository. Puis lancez la commande :
+```
+npm install
+```
+Vous pouvez ensuite exécuter les tests en exécutant la commande : 
+```
+npm test
+```
+
 ## Exercices
 
 ### Exercice 1 : Notions de contexte
